@@ -22,7 +22,7 @@
 
 |                                                        양서린                                                        |
 | :------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/didtjfls11"><img src="https://avatars.githubusercontent.com/didtjfls11" width="120"></a> |
+| <a href="https://github.com/yangseorin"><img src="https://avatars.githubusercontent.com/yangseorin" width="120"></a> |
 
 ---
 
